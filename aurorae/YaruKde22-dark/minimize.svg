@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   enable-background="new"
+   version="1.1"
+   id="svg25555"
+   sodipodi:docname="minimize.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs25559" />
+  <sodipodi:namedview
+     id="namedview25557"
+     pagecolor="#393939"
+     bordercolor="#626262"
+     borderopacity="0.24705882"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#222222"
+     showgrid="false"
+     inkscape:zoom="26.580786"
+     inkscape:cx="14.296041"
+     inkscape:cy="9.800312"
+     inkscape:window-width="1854"
+     inkscape:window-height="1048"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="active-center" />
+  <g
+     id="pressed-center">
+    <g
+       transform="translate(46)"
+       id="g25524">
+      <rect
+         width="22"
+         height="22"
+         fill="#000000"
+         opacity=".001"
+         id="rect25522" />
+    </g>
+    <circle
+       cx="57"
+       cy="11"
+       fill="#000000"
+       opacity="0.19"
+       id="circle25526"
+       r="10"
+       style="fill:#ffffff" />
+    <path
+       d="m 53,13 v 1 h 8 v -1 z"
+       style="fill:#f7f7f7;fill-opacity:1"
+       id="path26909"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+  <g
+     id="hover-center">
+    <g
+       transform="translate(23)"
+       id="g25533">
+      <rect
+         width="22"
+         height="22"
+         fill="#000000"
+         opacity=".001"
+         id="rect25531" />
+    </g>
+    <circle
+       cx="34"
+       cy="11"
+       fill="#000000"
+       opacity=".08"
+       id="circle25535"
+       style="opacity:0.12;fill:#ffffff"
+       r="10" />
+    <path
+       d="m 30,13 v 1 h 8 v -1 z"
+       style="fill:#f7f7f7;fill-opacity:1"
+       id="path26466"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+  <g
+     id="active-center">
+    <rect
+       width="22"
+       height="22"
+       fill="#000000"
+       opacity=".001"
+       id="rect25540" />
+    <circle
+       style="opacity:0.07;fill:#ffffff;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round"
+       id="path20068"
+       cx="11"
+       cy="11"
+       r="10" />
+    <path
+       d="m 7.0000001,13 v 1 H 15 v -1 z"
+       style="fill:#f7f7f7;fill-opacity:1"
+       id="path37688" />
+  </g>
+  <g
+     id="inactive-center"
+     transform="translate(73.5)"
+     opacity=".35"
+     style="opacity:1">
+    <rect
+       width="22"
+       height="22"
+       fill="#000000"
+       opacity=".001"
+       id="rect25545" />
+    <circle
+       style="opacity:0.07;fill:#ffffff;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round"
+       id="path22810"
+       cx="11"
+       cy="11"
+       r="10" />
+    <path
+       d="m 7,13 v 1 h 8 v -1 z"
+       style="fill:#d2d2d2;fill-opacity:1"
+       id="path26937"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+  <g
+     id="deactivated-center"
+     transform="translate(98.5)"
+     opacity=".35"
+     style="opacity:1">
+    <rect
+       width="22"
+       height="22"
+       fill="#000000"
+       opacity=".001"
+       id="rect25550" />
+    <circle
+       style="opacity:0.07;fill:#ffffff;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round"
+       id="path22810-5"
+       cx="11"
+       cy="11"
+       r="10" />
+    <path
+       d="m 7,13 v 1 h 8 v -1 z"
+       style="fill:#d2d2d2;fill-opacity:1"
+       id="path29585" />
+  </g>
+</svg>

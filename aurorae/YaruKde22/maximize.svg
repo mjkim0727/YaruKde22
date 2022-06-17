@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   enable-background="new"
+   version="1.1"
+   id="svg31"
+   sodipodi:docname="maximize.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs35" />
+  <sodipodi:namedview
+     id="namedview33"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="6.6451967"
+     inkscape:cx="36.116312"
+     inkscape:cy="13.167406"
+     inkscape:window-width="1854"
+     inkscape:window-height="1048"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="active-center" />
+  <g
+     id="active-center">
+    <rect
+       width="22"
+       height="22"
+       fill="#000000"
+       opacity=".001"
+       id="rect2" />
+    <circle
+       style="opacity:0.07;fill:#000000;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round"
+       id="path20068"
+       cx="11"
+       cy="11"
+       r="10" />
+    <path
+       d="m 7,7 v 8 h 8 V 7 Z m 1,1 h 6 v 6 H 8 Z"
+       style="fill:#3d3d3d;fill-opacity:1;stroke-width:0.8;stroke-linecap:round;stroke-linejoin:round"
+       id="path2396-6" />
+  </g>
+  <g
+     id="hover-center">
+    <rect
+       x="23"
+       width="22"
+       height="22"
+       fill="#000000"
+       opacity=".001"
+       id="rect7" />
+    <circle
+       cx="34"
+       cy="11"
+       fill="#000000"
+       opacity=".08"
+       id="circle9"
+       style="opacity:0.12"
+       r="10" />
+    <path
+       id="rect422"
+       style="fill:#3d3d3d;fill-opacity:1;stroke-width:0.8;stroke-linecap:round;stroke-linejoin:round"
+       d="m 30,7 v 8 h 8 V 7 Z m 1,1 h 6 v 6 h -6 z"
+       sodipodi:nodetypes="cccccccccc" />
+  </g>
+  <g
+     id="pressed-center"
+     transform="translate(24)">
+    <rect
+       x="23"
+       width="22"
+       height="22"
+       fill="#000000"
+       opacity=".001"
+       id="rect14" />
+    <circle
+       cx="34"
+       cy="11"
+       fill="#000000"
+       opacity="0.19"
+       id="circle16"
+       style="fill:#000000"
+       r="10" />
+    <path
+       d="m 30,7 v 8 h 8 V 7 Z m 1,1 h 6 v 6 h -6 z"
+       style="fill:#3d3d3d;fill-opacity:1;stroke-width:0.8;stroke-linecap:round;stroke-linejoin:round"
+       id="path2396"
+       sodipodi:nodetypes="cccccccccc" />
+  </g>
+  <g
+     id="inactive-center"
+     transform="translate(72)"
+     opacity=".35"
+     style="opacity:1">
+    <rect
+       width="22"
+       height="22"
+       fill="#000000"
+       opacity=".001"
+       id="rect21" />
+    <circle
+       style="opacity:0.07;fill:#000000;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round"
+       id="path22810"
+       cx="11"
+       cy="11"
+       r="10" />
+    <path
+       d="m 7.0000001,7 v 8 H 15 V 7 Z m 1,1 H 14 v 6 H 8.0000001 Z"
+       style="fill:#626262;fill-opacity:1;stroke-width:0.8;stroke-linecap:round;stroke-linejoin:round"
+       id="path13712"
+       sodipodi:nodetypes="cccccccccc" />
+  </g>
+  <g
+     id="deactivated-center"
+     transform="translate(96)"
+     opacity=".35"
+     style="opacity:1">
+    <rect
+       width="22"
+       height="22"
+       fill="#000000"
+       opacity=".001"
+       id="rect26" />
+    <circle
+       style="opacity:0.07;fill:#000000;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round"
+       id="path22812"
+       cx="11"
+       cy="11"
+       r="10" />
+    <path
+       d="M 7,7.0000001 V 15 h 8 V 7.0000001 Z m 1,1 h 6 V 14 H 8 Z"
+       style="fill:#626262;fill-opacity:1;stroke-width:0.8;stroke-linecap:round;stroke-linejoin:round"
+       id="path16219" />
+  </g>
+</svg>
