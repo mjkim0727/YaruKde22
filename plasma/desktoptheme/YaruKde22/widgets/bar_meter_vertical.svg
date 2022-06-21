@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="30"
+   height="30"
+   viewBox="0 0 30 30"
+   version="1.1"
+   id="svg414"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="bar_meter_vertical.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview416"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="9.3927351"
+     inkscape:cx="-7.1864052"
+     inkscape:cy="19.42991"
+     inkscape:window-width="1854"
+     inkscape:window-height="1018"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg414" />
+  <defs
+     id="defs411">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#0077c4; }
+  </style>
+  </defs>
+  <rect
+     style="fill:#ff2a2a;fill-opacity:1;stroke:none"
+     id="hint-tile-center"
+     width="4"
+     height="4"
+     x="0"
+     y="0" />
+  <rect
+     style="fill:#ff2a2a;fill-opacity:1;stroke:none"
+     id="hint-bar-size"
+     width="6"
+     height="6"
+     x="6"
+     y="0" />
+  <path
+     style="fill:#bdc3c7;fill-opacity:1;stroke:none"
+     d="m 17,14.999997 v 3 c 1.661989,0 3,-1.338011 3,-3 z"
+     id="bar-inactive-bottomright"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#bdc3c7;fill-opacity:1;stroke:none"
+     d="m 17,11.999997 v 2 h 3 v -2 z"
+     id="bar-inactive-right"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#bdc3c7;fill-opacity:1;stroke:none"
+     d="m 17,7.9999974 v 2.9999996 h 3 C 20,9.3380085 18.661989,7.9999974 17,7.9999974 Z"
+     id="bar-inactive-topright"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#bdc3c7;fill-opacity:1;stroke:none"
+     d="m 10,14.999997 c 0,1.661989 1.338011,3 3,3 v -3 z"
+     id="bar-inactive-bottomleft"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#bdc3c7;fill-opacity:1;stroke:none"
+     d="m 10,11.999997 v 2 h 3 v -2 z"
+     id="bar-inactive-left"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#bdc3c7;fill-opacity:1;stroke:none"
+     d="m 13,7.9999974 c -1.661989,0 -3,1.3380111 -3,2.9999996 h 3 z"
+     id="bar-inactive-topleft"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#bdc3c7;fill-opacity:1;stroke:none"
+     d="m 14,14.999997 v 3 h 2 v -3 z"
+     id="bar-inactive-bottom"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#bdc3c7;fill-opacity:1;stroke:none"
+     d="m 16,11.999997 h -2 v 2 h 2 z"
+     id="bar-inactive-center"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#bdc3c7;fill-opacity:1;stroke:none"
+     d="m 14,7.9999974 v 2.9999996 h 2 V 7.9999974 Z"
+     id="bar-inactive-top"
+     inkscape:connector-curvature="0" />
+  <path
+     id="bar-active-bottomright"
+     d="m 17,26.999997 v 3 c 1.661989,0 3,-1.33801 3,-3 z"
+     style="color:#0077c4;fill:currentColor;fill-opacity:1;stroke:none;stop-color:#0077c4"
+     inkscape:connector-curvature="0"
+     class="ColorScheme-ButtonFocus" />
+  <path
+     id="bar-active-right"
+     d="m 17,23.999997 v 2 h 3 v -2 z"
+     style="color:#0077c4;fill:currentColor;fill-opacity:1;stroke:none;stop-color:#0077c4"
+     inkscape:connector-curvature="0"
+     class="ColorScheme-ButtonFocus" />
+  <path
+     id="bar-active-topright"
+     d="m 17,19.999997 v 3 h 3 c 0,-1.66199 -1.338011,-3 -3,-3 z"
+     style="color:#0077c4;fill:currentColor;fill-opacity:1;stroke:none;stop-color:#0077c4"
+     class="ColorScheme-ButtonFocus" />
+  <path
+     id="bar-active-bottomleft"
+     d="m 10,26.999997 c 0,1.66199 1.338011,3 3,3 v -3 z"
+     style="color:#0077c4;fill:currentColor;fill-opacity:1;stroke:none;stop-color:#0077c4"
+     inkscape:connector-curvature="0"
+     class="ColorScheme-ButtonFocus" />
+  <path
+     id="bar-active-left"
+     d="m 10,23.999997 v 2 h 3 v -2 z"
+     style="color:#0077c4;fill:currentColor;fill-opacity:1;stroke:none;stop-color:#0077c4"
+     inkscape:connector-curvature="0"
+     class="ColorScheme-ButtonFocus" />
+  <path
+     id="bar-active-topleft"
+     d="m 13,19.999997 c -1.661989,0 -3,1.33801 -3,3 h 3 z"
+     style="color:#0077c4;fill:currentColor;fill-opacity:1;stroke:none;stop-color:#0077c4"
+     inkscape:connector-curvature="0"
+     class="ColorScheme-ButtonFocus" />
+  <path
+     id="bar-active-bottom"
+     d="m 14,26.999997 v 3 h 2 v -3 z"
+     style="color:#0077c4;fill:currentColor;fill-opacity:1;stroke:none;stop-color:#0077c4"
+     inkscape:connector-curvature="0"
+     class="ColorScheme-ButtonFocus" />
+  <path
+     id="bar-active-center"
+     d="m 16,23.999997 h -2 v 2 h 2 z"
+     style="color:#0077c4;fill:currentColor;fill-opacity:1;stroke:none;stop-color:#0077c4"
+     inkscape:connector-curvature="0"
+     class="ColorScheme-ButtonFocus" />
+  <path
+     id="bar-active-top"
+     d="m 14,19.999997 v 3 h 2 v -3 z"
+     style="color:#0077c4;fill:currentColor;fill-opacity:1;stroke:none;stop-color:#0077c4"
+     inkscape:connector-curvature="0"
+     class="ColorScheme-ButtonFocus" />
+</svg>

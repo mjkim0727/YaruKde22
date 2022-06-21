@@ -65,8 +65,6 @@
        cx="34"
        cy="11"
        r="10"
-       fill="#000000"
-       opacity=".08"
        id="circle9"
        style="opacity:0.12;stroke-width:0.909091" />
     <path
@@ -101,7 +99,6 @@
   <g
      id="inactive-center"
      transform="translate(72)"
-     opacity=".35"
      style="opacity:1">
     <rect
        width="22"
@@ -124,7 +121,6 @@
   <g
      id="deactivated-center"
      transform="translate(96)"
-     opacity=".35"
      style="opacity:1">
     <rect
        width="22"

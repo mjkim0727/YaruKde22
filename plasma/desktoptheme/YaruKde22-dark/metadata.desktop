@@ -1,0 +1,28 @@
+[Desktop Entry]
+Name=YaruKde22-dark
+Comment=Yaru theme for plasma
+
+X-KDE-PluginInfo-Author=kuroehanako
+X-KDE-PluginInfo-Email=kmj10727@gmail.com
+X-KDE-PluginInfo-Name=YaruKde22-dark
+X-KDE-PluginInfo-Version=5.78.0
+X-KDE-PluginInfo-Website=https://plasma.kde.org
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=5.0
+
+[Wallpaper]
+defaultWallpaperTheme=WartyKde
+defaultFileSuffix=.png
+defaultWidth=3840
+defaultHeight=2160
+
+[ContrastEffect]
+enabled=false
+contrast=0.2
+intensity=1.4
+saturation=1
+
+[AdaptiveTransparency]
+enabled=true
